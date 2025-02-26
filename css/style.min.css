@@ -28,12 +28,6 @@ body {
     background: #f12711;
     background: -webkit-linear-gradient(to right, #00edff, #3a8ee7);
     background: linear-gradient(to right, #00edff, #3a8ee7); }
-.navbar-brand img {
-    width: 40px; /* تعديل العرض */
-    height: auto; /* الحفاظ على نسبة الطول تلقائيًا */
-    margin-right: 10px; /* إضافة مسافة بين اللوجو والنصوص الأخرى */
-}
-
 
 .boxed-page {
   margin: 0 auto;
